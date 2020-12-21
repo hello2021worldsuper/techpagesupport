@@ -1,9 +1,9 @@
 
 您好，
 
-实时脑电图可以记录您听到的和看到的，不规则的异常可以通过计算机展示给别人看到，
+实时脑电图可以记录您听到的和看到的，感觉到的异常可以通过计算机展示给律师看到，
 
-要是很多的不规则问题，能在脑电图的事件出现后被实时探测到，
+要是很多的感觉异常，能在脑电图的事件出现后被实时探测到，
 是否有可能作为电磁问题的线索实时展示给律师？
 https://mne.tools/stable/auto_examples/time_frequency/plot_time_frequency_global_field_power.html#sphx-glr-auto-examples-time-frequency-plot-time-frequency-global-field-power-py
 
