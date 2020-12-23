@@ -12,4 +12,4 @@ http://shxy.cupl.edu.cn/sys/rzsjkxychsys.htm
 https://mne.tools/stable/auto_examples/time_frequency/plot_time_frequency_global_field_power.html#sphx-glr-auto-examples-time-frequency-plot-time-frequency-global-field-power-py
 
 有脑机接口专家可以免费给你技术支持，类似对不规则问题做免费的实时脑电图监测，需要请联络，
-您认为有用么？请注意健康和安全并遵守法律？
+参考内容来自网络，请注意健康和安全并遵守法律？
