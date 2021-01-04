@@ -4,7 +4,7 @@
 step1
 脑电装备可以记录听到和看到的内容，在计算机内显示， https://www.21ic.com/article/733352.html  
 在实时eeg事件后，如果看到记录了很多不规则线索，能展示给律师这类证据吗？  类似交流电的感觉出现后，看到了不正常的事件？ 
-示例  
+示例    
 https://mne.tools/stable/auto_examples/time_frequency/plot_time_frequency_global_field_power.html#sphx-glr-auto-examples-time-frequency-plot-time-frequency-global-field-power-py
 
 step2 
