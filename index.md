@@ -8,22 +8,22 @@ step1
 https://mne.tools/stable/auto_examples/time_frequency/plot_time_frequency_global_field_power.html#sphx-glr-auto-examples-time-frequency-plot-time-frequency-global-field-power-py
 
 step2 
-在有资质的职业场所可以获得脑电图报告，还需要讨论， 
-1 电磁保护？ https://mne.tools/stable/auto_examples/visualization/plot_sensor_noise_level.html#sphx-glr-auto-examples-visualization-plot-sensor-noise-level-py
-2 除了线索，BCI还能提供其他有力的证据，类似脑健康？   请参考资料诉讼案例  
-3 皮肤电数据及p300测谎研究 ？  
-4 来自网络的BCI软件的试用示例，  
-http://www.neurosky.com.cn/ 
-http://www.neurosky.com.cn/download/2983  
-https://play.google.com/store/apps/details?id=com.isomerprogramming.application.eegID 
+在有资质的职业场所可以获得脑电图报告，还需要讨论，   
+1 电磁保护？ https://mne.tools/stable/auto_examples/visualization/plot_sensor_noise_level.html#sphx-glr-auto-examples-visualization-plot-sensor-noise-level-py 
+2 除了线索，BCI还能提供其他有力的证据，类似脑健康？   请参考资料诉讼案例    
+3 皮肤电数据及p300测谎研究 ？    
+4 来自网络的BCI软件的试用示例，    
+http://www.neurosky.com.cn/   
+http://www.neurosky.com.cn/download/2983    
+https://play.google.com/store/apps/details?id=com.isomerprogramming.application.eegID   
 
 
 question  请问是否需要提交更多的资料，什么部门能帮助解决技术和防护问题？ 
 ////////////////////可能需要帮助的时间/////////////////////////  
-1 已经存在的诉讼需要帮助 ？ 
-2 律师工作需要支持 ？    
-3 个案的调查及别的问题 ？  
-4 防护或者技术实验室 ？ 
+1 已经存在的诉讼需要帮助 ？   
+2 律师工作需要支持 ？      
+3 个案的调查及别的问题 ？    
+4 防护或者技术实验室 ？   
 
 support from network，  ////////////////////网络能找到的技术帮助/////////////////////////  
 有一个脑机接口工作室，是否可给您eeg实时检测的技术支持？   
