@@ -21,16 +21,16 @@ https://play.google.com/store/apps/details?id=com.isomerprogramming.application.
 question  请问是否需要提交更多的资料，什么部门能帮助解决技术和防护问题？ 
 ////////////////////可能需要帮助的时间/////////////////////////  
 1 已经存在的诉讼需要帮助 ？ 
-2 律师工作需要支持 ？  
+2 律师工作需要支持 ？    
 3 个案的调查及别的问题 ？  
 4 防护或者技术实验室 ？ 
 
 support from network，  ////////////////////网络能找到的技术帮助/////////////////////////  
-有一个脑机接口工作室，是否可给您eeg实时检测的技术支持？ 
-1 脑机接口研究参考链接  https：//mne.tools/stable/auto_examples/index.html 
-2 获得eeg或者脑磁图数据 ？  
+有一个脑机接口工作室，是否可给您eeg实时检测的技术支持？   
+1 脑机接口研究参考链接  https：//mne.tools/stable/auto_examples/index.html   
+2 获得eeg或者脑磁图数据 ？   
 
 
 
-thanks， 
-请注意身体健康与安全，遵守法律？  
+thanks，   
+请注意身体健康与安全，遵守法律？    
