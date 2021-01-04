@@ -9,7 +9,7 @@ https://mne.tools/stable/auto_examples/time_frequency/plot_time_frequency_global
 
 step2 
 在有资质的职业场所可以获得脑电图报告，还需要讨论，   
-1 电磁保护？ https://mne.tools/stable/auto_examples/visualization/plot_sensor_noise_level.html#sphx-glr-auto-examples-visualization-plot-sensor-noise-level-py 
+1 电磁保护？ https://mne.tools/stable/auto_examples/visualization/plot_sensor_noise_level.html#sphx-glr-auto-examples-visualization-plot-sensor-noise-level-py  
 2 除了线索，BCI还能提供其他有力的证据，类似脑健康？   请参考资料诉讼案例    
 3 皮肤电数据及p300测谎研究 ？    
 4 来自网络的BCI软件的试用示例，    
