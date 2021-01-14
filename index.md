@@ -2,9 +2,10 @@
 您好，网络时常看到的内容 -- 电子装备问题，电磁感觉，电磁干扰 ？
 
 question------怎么获得线索 ？ <br>
-脑电装备可以记录听到和看到的内容，请参考 https://www.21ic.com/article/733352.html  
-在记录到实时eeg事件（类似你自己有感觉，别人听不到的听觉事件）后， 看到很多不规则线索，能给律师展示这类证据吗？  类似交流电声音的感觉出现后，看到了电子装备问题或者网络问题 ？ 
-示例    
+脑电装备可以记录听到和看到的内容，请参考 https://www.21ic.com/article/733352.html  <br>
+在记录到实时eeg事件（类似你自己有感觉，别人听不到的听觉事件）后， 看到很多不规则线索，能给律师展示这类证据吗？ <br> 
+类似交流电声音的感觉出现后，看到了电子装备问题或者网络问题 ？ <br>
+示例   <br> 
 https://mne.tools/stable/auto_examples/time_frequency/plot_time_frequency_global_field_power.html#sphx-glr-auto-examples-time-frequency-plot-time-frequency-global-field-power-py
 
 
@@ -29,6 +30,8 @@ question------怎么找到技术帮助 ？<br>
 有一个脑机接口工作室，是否可给您eeg实时检测的技术支持？   
 1 脑机接口研究参考链接  https：//mne.tools/stable/auto_examples/index.html   
 2 获得eeg或者脑磁图数据 ？   
+
+
 
 
 
