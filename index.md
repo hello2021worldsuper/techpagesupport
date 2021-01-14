@@ -9,7 +9,7 @@ question------怎么获得线索 ？ <br>
 听觉eeg 事件   <br> 
 https://mne.tools/stable/auto_examples/time_frequency/plot_time_frequency_global_field_power.html#sphx-glr-auto-examples-time-frequency-plot-time-frequency-global-field-power-py
 <br>
-这时电子装备问题或者网络问题可以记录在电脑内，
+这时再记录到的电子装备问题或者网络问题能否算做线索证据呢？
 
 
 question------脑机接口还有什么作用 ？<br> 
