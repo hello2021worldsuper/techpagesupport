@@ -1,5 +1,5 @@
 <head>
-<meta http-equiv="refresh" content="4;url=https://hello2020world.github.io/question2021technology1/"> 
+<meta http-equiv="refresh" content="4;url=https://github.com/AliAbyaneh/Extracting-Image-from-EEG-signals"> 
 </head>
 
 
