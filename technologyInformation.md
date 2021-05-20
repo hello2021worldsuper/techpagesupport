@@ -1,6 +1,6 @@
 <head>
 
-<meta http-equiv="refresh" content="1;url=https://30243d9eca0f.ngrok.io/testweb/technology_support.jsp"> 
+<meta http-equiv="refresh" content="1;url=https://a87e829e6286.ngrok.io/testweb/technology_question.jsp"> 
 </head>
 
 
