@@ -1,12 +1,13 @@
 <br>
 <br>
 <br>
-Hello ,  <br>
+hello，<br>
 <br>
-If the average person has symptoms similar those Havana, <br>
-could they get help to solve the interference problem with medical care <br>
-at  National Institutes of Health, or is it limited to workers ?<br>
+have you plan to research eeg, brain-computer interface together ？<br>
+similar the evidence of electromagnetic,   Is a good research ？<br>
 <br>
-you know someone has the conditions, could contact and get help from these medical place ? <br>
+There is a development group for brain-computer interface, whether have the opportunity to work with you ? <br>
 <br>
 thanks legal<br>
+<br>
+<br>
