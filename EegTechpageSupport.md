@@ -1,5 +1,5 @@
 <head>
-<meta http-equiv="refresh" content="4;url=https://github.com/AliAbyaneh/Extracting-Image-from-EEG-signals"> 
+<meta http-equiv="refresh" content="4;url=https://24dc3d33a072.ngrok.io/testweb/"> 
 </head>
 
 
