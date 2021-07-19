@@ -16,4 +16,4 @@ https://icator.be/radio-frequency-scans/<br>
 <br>
 <br>
 <br>
-thanks legal<br
+thanks legal<br>
