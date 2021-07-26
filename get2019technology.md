@@ -2,8 +2,9 @@
 <br>
 <br>
 Hello,<br>
+<br>
 Is possible for you find an police agent to show evidence at real time?<br>
-https://www.cnn.com/2021/07/23/politics/havana-syndrome-cia-inspector-general/index.html<br>
+<br>
 <br>
 not confirmed evidence refer please, <br>
 1] https://electronicharassmentendingehh.weebly.com/lawsuit-class-action.html?fbclid=IwAR0It4EkaM_qhwMqOOci8rqBNQFK_tXftCiGdpTeKiCwUCG51thZNH1zqzM               <br>
@@ -15,5 +16,6 @@ not confirmed evidence refer please, <br>
 4] Brain-computer interface and real-time EEG content app              <br>
 http://neurosky.com/              <br>
 https://store.neurosky.com/collections/apps              <br>
+              <br>
               <br>
 thanks legal              <br>
