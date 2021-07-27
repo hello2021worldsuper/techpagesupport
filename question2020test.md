@@ -1,14 +1,13 @@
 <br>
 <br>
 <br>
-hello,<br>
+Hello,<br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-thanks legal<br>
+This is an application of EEG music, you could link EEG to various music devices,<br>
+www.eegsynth.org/?page_id=522       <br>
+Heard that could be available for some partners, and possible get money and technology clue and evidence ?    <br>
+    <br>
+you know anyone needs this kind of technical content?    <br>
+   <br>
+    <br>
+thanks legal    <br>
