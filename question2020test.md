@@ -3,7 +3,7 @@
 <br>
 Hello,<br>
 <br>
-This is an application of EEG music, you could link EEG to various music devices,<br>
+This is an application of EEG music, could link EEG to various music devices,<br>
 www.eegsynth.org/?page_id=522       <br>
 Heard that could be available for some partners, and possible get money and technology clue and evidence ?    <br>
     <br>
