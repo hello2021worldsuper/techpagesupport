@@ -8,6 +8,6 @@ www.eegsynth.org/?page_id=522       <br>
 Heard that could be available for some partners, and possible get money and technology clue and evidence ?    <br>
     <br>
 you know anyone needs this kind of technical content?    <br>
-   <br>
     <br>
-thanks legal    <br>
+    <br>
+thanks comply with legal    <br>
