@@ -11,7 +11,7 @@ when irregular event be shown at the computer，is possible regarded as clues an
 <br>
 2】 If the detect data from electromagnetic and infrasound exceeds the standard, could be regarded as clue and evidence?<br>
 <br>
-3】 Is possible solve the problem if the electromagnetic clause is obtained, similar solve the technology voice interfere ?<br>
+3】 Is possible solve the content if the electromagnetic clause is obtained, similar solve the technology voice problem ?<br>
 <br>
 4】 Ask these questions, how could pay?<br>
 <br>
