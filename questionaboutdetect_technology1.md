@@ -19,6 +19,8 @@ What is plans relate these evidence?           <br>
 https://click.mlsend.com/link/c/YT0xODIyOTUzMDQwNDYyNzQ2ODUzJmM9ajBnNCZlPTE5MjgmYj04MDExODkwNjImZD1tOWUxYzdt.Ilkl-mHt9iCOlPae33sKOhXo1IS10SzpMIcnpIdVMyU           <br>
            <br>
 2】 partner could remote log laptop shows interference,  after that get protection trial?           <br>
+           <br> 
+ equipment need is laptop and RTL-SDR hardware like hackRF，not required for drones, cameras TV etc,           <br>
            <br>
 3】 provide evidence for ICATOR lawyer? contact canada department ?           <br>
            <br>
