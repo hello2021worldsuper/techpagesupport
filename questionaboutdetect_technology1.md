@@ -5,7 +5,7 @@
 have looked some evidence similar electromagnetic interference from site of you,           <br>
 How you plan for provide such evidence ?           <br>
            <br>
-here is some partner possible research paper similarly mentioned electromagnetic interference,           <br> 
+here is some research paper similarly mentioned electromagnetic interference,           <br> 
 irregular frequency, and protection trials，           <br>
 https://drive.google.com/file/d/128u7kqPCD50prCSxGjb21MZrElii35fb/view?fbclid=IwAR3qrSMApefObOkUksW7BiLKbIaOvIbmHSzviArH9qfVCyIzSF_it40rxPQ           <br>
            <br>
