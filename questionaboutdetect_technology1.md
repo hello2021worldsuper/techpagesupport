@@ -13,12 +13,12 @@ https://drive.google.com/file/d/128u7kqPCD50prCSxGjb21MZrElii35fb/view?fbclid=Iw
            <br>
  <br>          
 ------------------------------------------------------------------------------------------------<br>          
-What is plans?           <br>
-1】heard some medical clinic could treat electronic sensitive like EHS, could you contact?           <br>
+What is plans relate these evidence?           <br>
+1】heard some medical clinic could treat electronic sensitive like EHS, could you contact Canada clinic?           <br>
            <br>
 https://click.mlsend.com/link/c/YT0xODIyOTUzMDQwNDYyNzQ2ODUzJmM9ajBnNCZlPTE5MjgmYj04MDExODkwNjImZD1tOWUxYzdt.Ilkl-mHt9iCOlPae33sKOhXo1IS10SzpMIcnpIdVMyU           <br>
            <br>
-2】 partner remote log laptop shows interference?  after that get protection trial?           <br>
+2】 partner could remote log laptop shows interference,  after that get protection trial?           <br>
            <br>
 3】 provide evidence for ICATOR lawyer? contact canada department ?           <br>
            <br>
