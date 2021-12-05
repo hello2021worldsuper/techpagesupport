@@ -11,6 +11,8 @@ irregular frequency, and protection trials，           <br>
            <br>
 https://drive.google.com/file/d/128u7kqPCD50prCSxGjb21MZrElii35fb/view?fbclid=IwAR3qrSMApefObOkUksW7BiLKbIaOvIbmHSzviArH9qfVCyIzSF_it40rxPQ           <br>
            <br>
+ <br>          
+------------------------------------------------------------------------------------------------<br>          
 What is plans?           <br>
 1】heard some medical clinic could treat electronic sensitive like EHS, could you contact?           <br>
            <br>
