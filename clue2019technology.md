@@ -22,9 +22,6 @@ https://www.facebook.com/groups/targetedindividualsuniteagainstthethreat/posts/6
 https://www.aimeesaudios.com/<br>
 <br>
 -------------------------------------------------------------------------------------------------------------------<br>
-【Get necessary testing done by Dr. Hoffer】 <br>
-<br>
-https://doctors.umiamihealth.org/provider/Michael+Ellis+Hoffer/524979?fbclid=IwAR0gcKsam1wDMv2UNAMgLlZWKE28mm9mjJKdRSbILTq5JfwtcAb4qxhAtJM<br>
 <br>
 <br>
 <br>
