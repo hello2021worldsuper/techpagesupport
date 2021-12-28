@@ -1,11 +1,8 @@
-<br>
-<br>
-<br>
 Hello,<br>
 <br>
 Feel that there are lot questions need consulte, <br>
-involving problem detection, protection, cooperation, and investment，<br>
-part of the problem--------Version 2021/a1<br>
+involving problem detection, protection, cooperation, and investment，<br> 
+part of the problem--------Version 2021/a1  @test QA<br> 
 <br>
 1】 Sleep detect<br>
 -------------------------------------<br>
@@ -21,7 +18,6 @@ possible involve the effect of electromagnetics at the brain. The EEG data could
 Artificial intelligence, brain-computer interface software research possible reveal the effect of EEG <br>
 protection on human brain and activity health. <br>
 There are lot investment cooperation possibilities for this kind of medical value.<br>
-possible take time to explain, contact for detail?<br>
 refer------https://store.neurosky.com/collections/apps<br>
 <br>
 1.5】 Contact of lawyers and official email confirmation?<br>
@@ -58,18 +54,10 @@ heard that the chile neuro law, don’t know whether signed or not,<br>
 How could such laws help solve the problem?<br>
 refer------https://click.mlsend.com/link/c/YT0xODQ4MjgxNDI4MzcwOTIwOTA4JmM9eDl3OCZlPTE5MjgmYj04NDczODEyNjUmZD1xM3Q1bjls.DpUVAxhhkPtVd6vIJUXI0<br>
 <br>
-<br>
 Disclaimer<br>
 -------------------------------------<br>
 Computer problems, the existence of artificial intelligence, there are unclear problems,<br>
 Various problems similar havana, electromagnetic interference requires correct and legal explanations,<br>
 please not against the official government and normal rule, and Keep secret for person information?<br>
--------------------------------------<br>
-<br>
-<br>
-There are still questions don’t understand，is there such a possibility, please give time discuss detail?<br>
-<br>
-<br>
-<br>
 thanks<br>
-@test QA<br>
+
