@@ -56,7 +56,7 @@ refer------<a href="https://click.mlsend.com/link/c/YT0xODIyOTUzMDQwNDYyNzQ2ODUz
 -------------------------------------<br>
 heard that the chile neuro law, don’t know whether signed or not,<br>
 How could such laws help solve the problem?<br>
-refer------<a href="https://click.mlsend.com/link/c/YT0xODQ4MjgxNDI4MzcwOTIwOTA4JmM9eDl3OCZlPTE5MjgmYj04NDczODEyNjUmZD1xM3Q1bjls.DpUVAxhhkPtVd6vIJUXI0">detail</a><br>
+refer------<a href="https://spectrum.ieee.org/neurotech-neurorights?fbclid=IwAR2rY49pd2wqOgzifZ-Ua6VcCVZZHydbreCrDcl2lJ3a8H7en9tECtLeZFs">detail</a><br>
 <br>
 <br>
 Thanks respect @legal<br>
