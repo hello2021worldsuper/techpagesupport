@@ -12,12 +12,11 @@ please not against the official government and normal rule, and Keep secret for 
 ---------------------------------------------------------------------------------------------------------------<br>
 Many partners need solve sleep problems. Is possible give support and suggestions<br> 
 when the EEG data appears abnormal during sleep detect? similar how observe abnormalities data?<br>
-refer------<a href="https://mne.tools/stable/auto_tutorials/clinical/60_sleep.html">detail</a>
+<a href="https://mne.tools/stable/auto_tutorials/clinical/60_sleep.html">detail</a>
 <br><br><br>
 【Brain-computer interface download and TMS equipment description】<br>
 ---------------------------------------------------------------------------------------------------------------<br>
-refer------<a href="https://store.neurosky.com/collections/apps">download</a><br>
-refer------<a href="https://muhc.ca/neuromodulation/page/what-rtms">detail</a><br><br><br>
+<a href="https://store.neurosky.com/collections/apps">download</a>||<a href="https://muhc.ca/neuromodulation/page/what-rtms">detail</a><br><br><br>
 【Contact lawyers and official email confirmation?】<br>
 ---------------------------------------------------------------------------------------------------------------<br>
 Is possible help the partner contact a lawyer and explain the lawsuit?<br>
@@ -43,7 +42,7 @@ The symptoms of this type of problem， Is there a medical treatment method for 
 ---------------------------------------------------------------------------------------------------------------<br>
 heard that the neuro law, don’t know whether signed or not,<br>
 How could such laws help solve the problem?<br>
-refer------<a href="https://spectrum.ieee.org/neurotech-neurorights?fbclid=IwAR2rY49pd2wqOgzifZ-Ua6VcCVZZHydbreCrDcl2lJ3a8H7en9tECtLeZFs">detail</a>
+<a href="https://spectrum.ieee.org/neurotech-neurorights?fbclid=IwAR2rY49pd2wqOgzifZ-Ua6VcCVZZHydbreCrDcl2lJ3a8H7en9tECtLeZFs">detail</a>
 <br><br><br>
 thanks respect @legal<br>
 
