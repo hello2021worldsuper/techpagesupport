@@ -34,7 +34,7 @@ and help the EEG health research and investigation?<br>
 ---------------------------------------------------------------------------------------------------------------<br>
 Electromagnetic problems have a lot of human body, legal effects, similar electromagnetic ehs symptoms?
 <br><br><br>
-【ehs treatment?】<br>
+【EHS treatment?】<br>
 ---------------------------------------------------------------------------------------------------------------<br>
 The symptoms of this type of problem， Is there a medical treatment method for this type of problem?
 <br><br><br>
