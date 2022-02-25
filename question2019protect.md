@@ -28,7 +28,7 @@ These are valuable and could be paid?
 is possible help partner contact the laboratory that solves the havana problem?<br>
 Could help partner demonstrate the evidence, meet the needs of the EEG department,<br>
 and help the EEG health research and investigation?<br>
-refer------<a href="https://ottawacitizen.com/news/local-news/i-should-not-have-been-sent-back-there-canadian-diplomat-says-government-sent-him-back-to-cuba-with-brain-injury">detail</a>
+<a href="https://ottawacitizen.com/news/local-news/i-should-not-have-been-sent-back-there-canadian-diplomat-says-government-sent-him-back-to-cuba-with-brain-injury">detail</a>
 <br><br><br>
 【contact the electromagnetic detect department and labortary?】<br>
 ---------------------------------------------------------------------------------------------------------------<br>
