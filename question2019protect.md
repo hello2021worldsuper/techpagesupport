@@ -28,6 +28,7 @@ and help the EEG health research and investigation?<br>
 【contact the electromagnetic detect department and labortary?】<br>
 ---------------------------------------------------------------------------------------------------------------<br>
 Electromagnetic problems have a lot of human body, legal effects, similar electromagnetic ehs symptoms?
+<a href="https://standards.ieee.org/">detail</a>
 <br><br><br>
 【EHS treatment?】<br>
 ---------------------------------------------------------------------------------------------------------------<br>
