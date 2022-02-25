@@ -1,6 +1,6 @@
 Disussion<br>
 ---------------------------------------------------------------------------------------------------------------<br>
-There are lot questions require consulte----------@test<br>
+There are lot questions require consulte--------@test<br>
 involving problem detection, protection, cooperation, and investment,<br>
 <br>
 【Disclaimer】<br>
@@ -18,12 +18,6 @@ when the EEG data appears abnormal during sleep detect? similar how observe abno
 【Brain-computer interface download and TMS equipment description】<br>
 ---------------------------------------------------------------------------------------------------------------<br>
 <a href="https://store.neurosky.com/collections/apps">download</a>||<a href="https://muhc.ca/neuromodulation/page/what-rtms">detail</a><br><br><br>
-【Contact lawyers and official email confirmation?】<br>
----------------------------------------------------------------------------------------------------------------<br>
-Is possible help the partner contact a lawyer and explain the lawsuit?<br>
-Show the official confirmation letter, email?<br>
-These are valuable and could be paid?
-<br><br><br>
 【Help contact the laboratory and medical clinic that solves havana problems?】<br>
 ---------------------------------------------------------------------------------------------------------------<br>
 is possible help partner contact the laboratory that solves the havana problem?<br>
