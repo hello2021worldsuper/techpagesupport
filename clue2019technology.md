@@ -27,7 +27,4 @@ https://www.facebook.com/groups/targetedindividualsuniteagainstthethreat/posts/6
 https://www.aimeesaudios.com/<br>
 <br>
 -------------------------------------------------------------------------------------------------------------------<br>
-<br>
-<br>
-<br>
 thanks respect legal
