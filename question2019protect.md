@@ -1,7 +1,6 @@
 Disussion<br>
-There are lot questions require consulte,<br>
+There are lot questions require consulte----------Version a1 @test<br>
 involving problem detection, protection, cooperation, and investment,<br>
-part of the problem--------Version a1 @test QA<br>
 <br>
 【Disclaimer】<br>
 ---------------------------------------------------------------------------------------------------------------<br>
@@ -9,24 +8,21 @@ Computer problems, there are unclear problems,<br>
 Various problems similar havana, electromagnetic interference requires correct and legal explanations,<br>
 please not against the official government and normal rule, and Keep secret for person information?<br>
 <br>
-<br>
-<br>
 【Sleep detect】<br>
 ---------------------------------------------------------------------------------------------------------------<br>
 Many partners need solve sleep problems. Is possible give support and suggestions<br> 
-when the EEG data appears abnormal during sleep detect?<br>
-Suggestions similar how observe abnormalities data?<br>
+when the EEG data appears abnormal during sleep detect? similar how observe abnormalities data?<br>
 refer------<a href="https://mne.tools/stable/auto_tutorials/clinical/60_sleep.html">detail</a>
 <br><br><br>
-【Brain-computer interface】<br>
+【Brain-computer interface download and TMS equipment description】<br>
 ---------------------------------------------------------------------------------------------------------------<br>
-refer------<a href="https://store.neurosky.com/collections/apps">detail</a><br><br><br>
-<br><br><br>
+refer------<a href="https://store.neurosky.com/collections/apps">download</a><br>
+refer------<a href="https://muhc.ca/neuromodulation/page/what-rtms">detail</a><br><br><br>
 【Contact lawyers and official email confirmation?】<br>
 ---------------------------------------------------------------------------------------------------------------<br>
 Is possible help the partner contact a lawyer and explain the lawsuit?<br>
 Show the official confirmation letter, email?<br>
-These are valuable and could be paid?<br>
+These are valuable and could be paid?
 <br><br><br>
 【Help contact the laboratory and medical clinic that solves havana problems?】<br>
 ---------------------------------------------------------------------------------------------------------------<br>
