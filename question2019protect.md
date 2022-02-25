@@ -43,6 +43,8 @@ The symptoms of this type of problem， Is there a medical treatment method for 
 heard that the neuro law, don’t know whether signed or not,<br>
 How could such laws help solve the problem?<br>
 <a href="https://spectrum.ieee.org/neurotech-neurorights?fbclid=IwAR2rY49pd2wqOgzifZ-Ua6VcCVZZHydbreCrDcl2lJ3a8H7en9tECtLeZFs">detail</a>
+<br>
+<br>
 <br><br><br>
 thanks respect @legal<br>
 
