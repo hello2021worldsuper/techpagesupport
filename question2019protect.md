@@ -22,7 +22,7 @@ refer------<a href="https://mne.tools/stable/auto_tutorials/clinical/60_sleep.ht
 1.3】Brain-computer interface<br>
 ---------------------------------------------------------------------------------------------------------------<br>
 possible involve the effect of electromagnetics at the brain. The EEG data could be valuable.<br>
-Artificial intelligence, brain-computer interface software research possible reveal the effect of EEG<br>
+brain-computer interface software research possible reveal the effect of EEG<br>
 protection on human brain and activity health.<br>
 There are lot investment cooperation possibilities for this kind of medical value.<br>
 refer------<a href="https://store.neurosky.com/collections/apps">detail</a><br>
@@ -38,7 +38,7 @@ These are valuable and could be paid?<br>
 is possible help Canada partner contact the laboratory that solves the havana problem ?<br>
 Could help partner demonstrate the evidence, meet the needs of the EEG department,<br>
 and help the EEG health research and investigation?<br>
-refer------<a href="https://ottawacitizen.com/news/local-news/i-should-not-have-been-sent-back-there-canadian-diplomat-says-government-sent-him-back-to-cuba-with-brain-injury">detail</a><br><br>
+refer------<a href="https://ottawacitizen.com/news/local-news/i-should-not-have-been-sent-back-there-canadian-diplomat-says-government-sent-him-back-to-cuba-with-brain-injury">detail</a><br>
 <br>
 3.1.a】 contact the electromagnetic detect department and labortary?<br>
 ---------------------------------------------------------------------------------------------------------------<br>
