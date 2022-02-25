@@ -10,7 +10,7 @@ Please contact for real-time display, video&meeting display, supporting document
 <br>
 <br>
 <br>
-https://www.facebook.com/permalink.php?story_fbid=2840427579551285&id=100007522128917&__cft__[0]=AZWXd3oLMkDWCW2ESaYMaa_g-53XhDkO72fLsvT3mm_XJaNhcaQlFM9PL2z9u0rtGEkWF5XG2GBvXT6iJhOTHpOWrvib5AmhG-5YBkw1kdyrrcB5n1MuDJ_TFO9VjCEGvJw&__tn__=%2CO%2CP-R
+https://www.facebook.com/permalink.php?story_fbid=2840427579551285&id=100007522128917&__cft__[0]=AZWXd3oLMkDWCW2ESaYMaa_g-53XhDkO72fLsvT3mm_XJaNhcaQlFM9PL2z9u0rtGEkWF5XG2GBvXT6iJhOTHpOWrvib5AmhG-5YBkw1kdyrrcB5n1MuDJ_TFO9VjCEGvJw&__tn__=%2CO%2CP-R<br>
 <a href="http://www.targettruth.org">hello</a>
 <br>
 -------------------------------------------------------------------------------------------------------------------<br>
