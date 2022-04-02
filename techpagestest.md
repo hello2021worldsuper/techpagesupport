@@ -19,7 +19,7 @@ https://pisapapeles.net/neuroderechos-la-legislacion-chilena-pionera-en-el-mundo
 2】america干扰问题诉讼获胜的案件或律师联络办法<br>
 https://thelegalcoop.wordpress.com/<br>
 http://www.avictimoforganizedcrime.com/Facts-of-My-Case.php<br>
-www.icator.org<br>
+www.icator.be<br>
 <br>
 3】audio电磁监测<br>
 <br>
