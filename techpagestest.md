@@ -26,7 +26,7 @@ www.icator.be<br>
 4】可能帮着解决电磁干扰的america退休警察和医护<br>
 http://www.pactsntl.org/<br>
 america电磁干扰问题医护联络<br>
-conference--------http://www.pactsntl.org/conference-call-schedules.html<br>
+http://www.pactsntl.org/conference-call-schedules.html<br>
 请注意隐私保护<br>
 thanks legal<br>
 <br>
