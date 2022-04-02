@@ -19,11 +19,11 @@ https://pisapapeles.net/neuroderechos-la-legislacion-chilena-pionera-en-el-mundo
 2】america干扰问题诉讼获胜的案件或律师联络办法<br>
 https://thelegalcoop.wordpress.com/<br>
 http://www.avictimoforganizedcrime.com/Facts-of-My-Case.php<br>
-<br>
+www.icator.org<br>
 <br>
 3】audio电磁监测<br>
 <br>
-4】可能帮着解决电磁干扰的america退休jincha和医护<br>
+4】可能帮着解决电磁干扰的america退休警察和医护<br>
 http://www.pactsntl.org/<br>
 america电磁干扰问题医护联络<br>
 conference--------http://www.pactsntl.org/conference-call-schedules.html<br>
